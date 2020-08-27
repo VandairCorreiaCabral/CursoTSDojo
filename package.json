@@ -1,0 +1,21 @@
+{
+  "name": "cursotsdojo",
+  "version": "1.0.0",
+  "description": "curso ts do devdojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server.ts "
+  },
+  "repository": "git+https://github.com/VandairCorreiaCabral/CursoTSDojo.git",
+  "author": "vandair cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VandairCorreiaCabral/CursoTSDojo/issues"
+  },
+  "homepage": "https://github.com/VandairCorreiaCabral/CursoTSDojo#readme",
+  "dependencies": {
+    "ts-node-dev": "^1.0.0-pre.61",
+    "typescript": "^4.0.2"
+  }
+}
